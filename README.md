@@ -9,6 +9,7 @@ Kotlin öğrenmek için yaptığım bir hesap makinesi uygulaması
 
 
 ## Demo
+![](https://github.com/BcanGRG/MyCalculator/blob/main/app/src/main/java/assets/calculator.gif)
 
 
 ## Color Reference
@@ -28,5 +29,3 @@ Kotlin öğrenmek için yaptığım bir hesap makinesi uygulaması
 ## Feedback
 
 If you have any feedback, please reach out to us at burockcan2309@gmail.com
-
-ı
