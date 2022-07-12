@@ -29,5 +29,3 @@ Kotlin öğrenmek için yaptığım bir hesap makinesi uygulaması
 ## Feedback
 
 If you have any feedback, please reach out to us at burockcan2309@gmail.com
-
-ı
